@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+Profile Stats
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=Elephantwanttofly&show_icons=true&theme=dark"
@@ -25,3 +28,4 @@ Here are some ideas to get you started:
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Elephantwanttofly&show_icons=true" />
 </picture>
+-->
