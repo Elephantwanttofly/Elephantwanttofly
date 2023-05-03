@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm still alive
 -->
 
-<!--
+
 Profile Stats
 <picture>
 <source
@@ -29,4 +29,4 @@ Profile Stats
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Elephantwanttofly&show_icons=true" />
 </picture>
--->
+
